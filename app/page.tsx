@@ -48,7 +48,7 @@ export default function Home() {
               fontSize: "clamp(2.6rem, 5.5vw, 4.2rem)", color: "var(--white)",
               lineHeight: 1.08, marginBottom: 22,
             }}>
-              Want <em style={{ color: "#6ee89b", fontStyle: "normal" }}>The Best</em><br />Fishes In Ghana?
+              Sustainable <em style={{ color: "#6ee89b", fontStyle: "normal" }}>Cultured</em><br />Fishes...
             </h1>
             <p style={{ fontSize: "1.08rem", color: "rgba(255,255,255,.8)", lineHeight: 1.78, marginBottom: 38 }}>
               Crystal Lake Fish serves you the best kind of fishes. CLF specializes in breeding and supplying high-quality fingerlings and providing full-cycle professional fish rearing services — helping you achieve consistent yields and long-term success.
